@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "admin admin",
+        "affiliation": "manufacturer",
+        "company": "1",
+        "email": "admin@admin.com",
+        "phone": "(000) 000-0000",
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "name": "admin 2",
+        "affiliation": "manufacturer2",
+        "company": "2",
+        "email": "admin2@admin.com",
+        "phone": "(222) 000-0000",
+        "status": "Inactive"
+    },
+    {
+        "id": 3,
+        "name": "admin admin",
+        "affiliation": "manufacturer",
+        "company": "3",
+        "email": "admin3@admin.com",
+        "phone": "(333) 000-0000",
+        "status": "Inactive"
+    }
+]
